@@ -348,6 +348,7 @@ header {
   font-size: 31px; }
 
 .decision-type-container {
+    display: inline-block;
   flex-wrap: wrap;
   margin-top: 50px; }
 
@@ -683,6 +684,7 @@ footer h5 {
     width: 100%; }
 
   .decision-type-container {
+      display: inline-block;
     flex-wrap: wrap;
     margin-top: 50px; }
 
@@ -894,6 +896,7 @@ footer h5 {
     width: 100%; }
 
   .decision-type-container {
+      display: inline-block;
     flex-wrap: wrap;
     margin-top: 50px; }
 
