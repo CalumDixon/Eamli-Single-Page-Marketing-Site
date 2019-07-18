@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="49px" height="49px" viewBox="0 0 49 49" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Aq Icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Aq-Icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval-Copy-8" fill-opacity="0.2" fill="#398DD3" cx="24.5" cy="25" r="24.5"></circle>
+        <g id="round-call_merge-24px" transform="translate(9.500000, 10.000000)">
+            <polygon id="Path" points="0 0 30 0 30 30 0 30"></polygon>
+            <path d="M22.125,24.625 C22.6125,24.1375 22.6125,23.35 22.125,22.8625 L18.75,19.4875 L16.9875,21.25 L20.3625,24.625 C20.85,25.1125 21.65,25.1125 22.125,24.625 Z M10.8875,10 L13.75,10 L13.75,16.9875 L7.8625,22.8625 C7.375,23.35 7.375,24.1375 7.8625,24.625 C8.35,25.1125 9.1375,25.1125 9.625,24.625 L16.25,18 L16.25,10 L19.1125,10 C19.675,10 19.95,9.325 19.55,8.9375 L15.4375,4.825 C15.1875,4.575 14.8,4.575 14.55,4.825 L10.4375,8.9375 C10.05,9.325 10.325,10 10.8875,10 Z" id="Shape" fill="#398DD3" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

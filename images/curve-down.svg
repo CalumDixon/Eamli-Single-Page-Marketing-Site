@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="207px" viewBox="0 0 1440 207" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>curve-down</title>
+    <desc>Created with Sketch.</desc>
+    <g id="curve-down" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M103.246784,1490 L-52,1490 L-52,50 L104.045958,50 C200.598339,-188.999536 662.583019,-188.666202 1490,51 L1490,1491 C661.430626,1731 199.31218,1731 103.644662,1491 C103.511913,1490.66697 103.379287,1490.33364 103.246784,1490 Z M103.246784,1490 L197,1490 L197,50 L104.045958,50 C103.911484,50.3328691 103.777718,50.6662024 103.644662,51 C-39.7238663,410.666975 -39.8564923,1129.66821 103.246784,1490 Z" id="Combined-Shape" fill="#FAFAFA" transform="translate(719.000000, 771.000000) rotate(-270.000000) translate(-719.000000, -771.000000) "></path>
+    </g>
+</svg>

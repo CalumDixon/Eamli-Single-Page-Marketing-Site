@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="202px" height="201px" viewBox="0 0 202 201" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Eamli-Score-Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="91.2559167%" x2="98.1329871%" y2="8.39706947%" id="linearGradient-1">
+            <stop stop-color="#398DD3" offset="0%"></stop>
+            <stop stop-color="#54BDEA" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Eamli-Score-Icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-5" transform="translate(10.000000, 10.000000)">
+            <g id="Group-4" fill="#FFFFFF" stroke="url(#linearGradient-1)" stroke-width="8">
+                <circle id="Oval" cx="90.4608696" cy="90.4608696" r="94.4608696"></circle>
+            </g>
+            <g id="Group-28" transform="translate(42.250000, 58.625000)" fill="#2A2B2C" font-family="Nunito-Bold, Nunito" font-size="47.5" font-weight="bold">
+                <text id="3.79">
+                    <tspan x="0" y="48">3.79</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="49px" viewBox="0 0 50 49" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Dev Icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Dev-Icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-15" transform="translate(-0.500000, 0.000000)" fill="#398DD3" opacity="0.2">
+            <circle id="Oval-Copy-2" cx="25" cy="24.5" r="24.5"></circle>
+        </g>
+        <g id="baseline-build-24px-(1)" transform="translate(11.500000, 11.500000)">
+            <polygon id="Path" points="0 0 26 0 26 26 0 26"></polygon>
+            <path d="M24.5916667,20.5833333 L14.7333333,10.725 C15.7083333,8.23333333 15.1666667,5.30833333 13.1083333,3.25 C10.9416667,1.08333333 7.69166667,0.65 5.09166667,1.84166667 L9.75,6.5 L6.5,9.75 L1.73333333,5.09166667 C0.433333333,7.69166667 0.975,10.9416667 3.14166667,13.1083333 C5.2,15.1666667 8.125,15.7083333 10.6166667,14.7333333 L20.475,24.5916667 C20.9083333,25.025 21.5583333,25.025 21.9916667,24.5916667 L24.4833333,22.1 C25.025,21.6666667 25.025,20.9083333 24.5916667,20.5833333 Z" id="Path" fill="#398DD3" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

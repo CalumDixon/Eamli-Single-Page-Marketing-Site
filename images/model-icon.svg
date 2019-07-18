@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="74px" height="74px" viewBox="0 0 74 74" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>model-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="87.027471%" x2="98.1329871%" y2="12.6610817%" id="linearGradient-1">
+            <stop stop-color="#398DD3" offset="0%"></stop>
+            <stop stop-color="#54BDEA" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="model-icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="round-table_chart-24px" transform="translate(5.000000, 5.000000)">
+            <polygon id="Path" points="0 0 64 0 64 64 0 64"></polygon>
+            <path d="M25.3333333,26.72 L38.6666667,26.72 L38.6666667,56 L25.3333333,56 L25.3333333,26.72 Z M44,56 L52,56 C54.9333333,56 57.3333333,53.6 57.3333333,50.6666667 L57.3333333,26.6666667 L44,26.6666667 L44,56 Z M52,8 L12,8 C9.06666667,8 6.66666667,10.4 6.66666667,13.3333333 L6.66666667,21.3333333 L57.3333333,21.3333333 L57.3333333,13.3333333 C57.3333333,10.4 54.9333333,8 52,8 Z M6.66666667,50.6666667 C6.66666667,53.6 9.06666667,56 12,56 L20,56 L20,26.6666667 L6.66666667,26.6666667 L6.66666667,50.6666667 Z" id="Shape" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>
