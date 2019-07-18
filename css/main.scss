@@ -159,10 +159,10 @@ animation-duration: 1.25s
 
 .sign-up-input {
   height:60px;
-display: inline-block;
+  display: inline-block;
   border:none;
   border-radius: 3px;
-  width:100%;
+  width: calc(100% - 165px);
   background-color: #ffffff;
   color:$Medium-Grey;
   padding-left:20px;
@@ -695,12 +695,6 @@ footer h5 {
     min-width:100%;
   }
 
-  .sign-up-input {
-    display: inline-block;
-    min-width:100%;
-  }
-
-
   .dashboard-image{
     width:75%;
   }
@@ -740,15 +734,6 @@ footer h5 {
 
 @media only screen and (max-width: 1100px) {
 
-  .white.white-outline-button {
-      display:inline-block;
-    min-width:100%;
-  }
-
-  .sign-up-input {
-    display: inline-block;
-    min-width:100%;
-  }
 
   .eamli-presentation-text {
   font : {
@@ -1080,12 +1065,13 @@ footer h5 {
 
 
   .white-outline-button {
-      display:inline-block;
+    display:block;
     min-width:100%;
+    margin-top:20px;
   }
 
   .sign-up-input {
-    display: inline-block;
+    display:block;
     min-width:100%;
   }
 
