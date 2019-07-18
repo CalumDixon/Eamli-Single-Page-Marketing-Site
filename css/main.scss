@@ -246,8 +246,6 @@ display: inline-block;
 .form-element {
   margin-top: 40px;
   display: block;
-  display: flex;
-  justify-content: center;
 }
 
 .dashboard-image{
@@ -782,8 +780,6 @@ footer h5 {
   .form-element {
     margin-top: 40px;
     display: block;
-    display: flex;
-    justify-content: center;
   }
 
   .dashboard-image{
@@ -1083,7 +1079,7 @@ footer h5 {
 @media only screen and (max-width: 800px) {
 
 
-  .white.white-outline-button {
+  .white-outline-button {
       display:inline-block;
     min-width:100%;
   }
@@ -1431,9 +1427,6 @@ footer h5 {
     }
 
     .form-element {
-      display: block;
-      display: flex;
-      flex-flow: column;
       margin-top:20px;
     }
 
